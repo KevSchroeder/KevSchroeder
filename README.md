@@ -1,6 +1,5 @@
 Hi, I’m @KevSchroeder
-I am currently teaching myself Java as well as creating a smart contract for my NFT project
-I'm looking to learn more about smart contracts, solidity, Ethereum and Web3 implementation!
+I am currently studying Python and am an aspiring Python Developer looking to land my first job in softward development!
 
 <!---
 KevSchroeder/KevSchroeder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

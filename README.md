@@ -18,6 +18,12 @@ I am a Frontend Engineer using the React framework to build dynamic and optimize
 <img align="left" alt="Canva" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
+</br>
+
+## Github Stats
+
+![Top Langs](https://github-readme-stats-gilt-ten.vercel.app/api/top-langs/?username=rcwethey&layout=compact&theme=react&hide_border=true)
+
 <!---
 KevSchroeder/KevSchroeder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

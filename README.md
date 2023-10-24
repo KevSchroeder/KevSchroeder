@@ -20,9 +20,6 @@ I am a Frontend Engineer using the React framework to build dynamic and optimize
 
 </br>
 
-## Github Stats
-
-![Top Langs](https://github-readme-stats-gilt-ten.vercel.app/api/top-langs/?username=rcwethey&layout=compact&theme=react&hide_border=true)
 
 <!---
 KevSchroeder/KevSchroeder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

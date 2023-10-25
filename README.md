@@ -1,6 +1,9 @@
 Hi, I’m Kevin
 
-I am a Frontend Engineer using the React framework to build dynamic and optimized websites and application for small businesses.
+- Frontend Engineer using the React framework to build dynamic and optimized websites and application for small businesses.
+- Tailwind CSS is my go to CSS Framework
+- Next.js for server side rendering
+- Python for all other backend/scripting
 
 ### Languages and Tools:
 

@@ -1,6 +1,6 @@
 <h1> Hi, I’m Kevin Schroeder </h1>
 
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> Frontend Engineer using the React framework to build dynamic and optimized websites and application for businesses.
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> Frontend Engineer using the React framework to build dynamic and optimized websites and application for businesses. :electron:
 - <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> is my go to CSS Framework :fog:
 - <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> for server side rendering
 -  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  for all other backend/scripting :snake:

@@ -1,27 +1,157 @@
-<h1> Hi, I’m Kevin Schroeder </h1>
+<div align="center">
 
-- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> Frontend Engineer using the React framework to build dynamic and optimized websites and application for businesses. :electron:
-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> is my go to CSS Framework :fog:
-- <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> for server side rendering
--  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />  for all other backend/scripting :snake:
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0d1b3e&height=180&section=header&text=Kevin%20Schroeder&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Specialist%20%40%20AWS%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=16&descColor=8ab4f8&animation=fadeIn" width="100%" />
 
-### Languages and Tools:
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=8AB4F8&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=32&lines=Machine+Learning+%7C+Generative+AI+%7C+Cloud+Architecture;Building+the+infrastructure+for+intelligent+systems;AWS+AI%2FML+%7C+Bedrock+%7C+SageMaker+%7C+Foundation+Models;Turning+model+capabilities+into+real-world+impact" alt="Typing SVG" />
+</a>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
-<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Tailwind CSS" width="30px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" />
-<img align="left" alt="Next.js" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" />
-<img align="left" alt="Flask" width="30px" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" />
-<img align="left" alt="Django" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" />
-<img align="left" alt="PostgreSQL" width="30px" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" />
-<img align="left" alt="Canva" width="30px" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/02494c7c-de6a-43a6-9293-6369696842ed" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<br/>
 
-</br>
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/AWS-AI%20Specialist-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-ML%20Infrastructure-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Based_in-Boston-1a73e8?style=flat-square&logo=google-maps&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## `// about`
+
+```python
+profile = {
+    "name"       : "Kevin Schroeder",
+    "role"       : "AI Specialist, Amazon Web Services",
+    "focus"      : ["Generative AI", "ML Infrastructure", "Foundation Models", "LLMOps"],
+    "building"   : "Production-grade AI systems that scale",
+    "philosophy" : "The most powerful models mean nothing without the right architecture around them.",
+    "personal"   : "This is my personal space — opinions, experiments, and explorations are my own.",
+}
+```
+
+---
+
+## `// what I work with`
+
+<div align="center">
+
+### Cloud & AI/ML Platform
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+</p>
+
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+### AI / ML Stack
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+### Infrastructure & DevOps
+<p>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+</p>
+
+</div>
+
+---
+
+## `// areas of focus`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 Foundation Model Deployment</h4>
+      <p>Architecting scalable inference pipelines for large language models. From quantization strategies to latency-optimized serving on AWS infrastructure.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ LLMOps & Model Lifecycle</h4>
+      <p>Evaluation frameworks, monitoring, and continuous improvement loops for production AI systems. Making models observable, reliable, and improvable over time.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔗 Retrieval-Augmented Generation</h4>
+      <p>Designing RAG architectures that go beyond naive retrieval — hybrid search, re-ranking, context compression, and knowledge graph integration.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏗️ AI-Native Application Patterns</h4>
+      <p>Translating raw model capabilities into enterprise-grade applications. Agentic workflows, tool use, structured outputs, and multi-model orchestration.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `// github stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KevSchroeder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8ab4f8&icon_color=FF9900&text_color=c9d1d9&rank_icon=github" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevSchroeder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8ab4f8&text_color=c9d1d9&langs_count=6" height="165" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KevSchroeder&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=8ab4f8&ring=FF9900&fire=FF9900&currStreakLabel=8ab4f8" />
+
+</div>
+
+---
+
+## `// activity`
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevSchroeder&theme=github-compact&bg_color=0d1117&color=8ab4f8&line=FF9900&point=ffffff&hide_border=true" width="100%" />
+</div>
+
+---
+
+## `// connect`
+
+<div align="center">
+  <a href="https://linkedin.com/in/KevSchroeder">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/KevSchroeder">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:kevin@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>
+    Personal account. Views, experiments, and repos are my own — not AWS or Amazon's.<br/>
+    <em>The best way to understand AI is to build with it.</em>
+  </sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%" />
 
 
 <!---

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0d1b3e&height=180&section=header&text=Kevin%20Schroeder&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Specialist%20%40%20AWS%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descSize=16&descColor=8ab4f8&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0d1b3e&height=180&section=header&text=Kevin%20Schroeder&fontSize=52&fontColor=ffffff&fontAlignY=45&descAlignY=58&descSize=16&descColor=8ab4f8&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -46,32 +46,24 @@ profile = {
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Nova-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kiro-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
 </p>
 
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 ### AI / ML Stack
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anthropic_Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-
-### Infrastructure & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 </p>
 
 </div>
@@ -100,6 +92,12 @@ profile = {
       <h4>🏗️ AI-Native Application Patterns</h4>
       <p>Translating raw model capabilities into enterprise-grade applications. Agentic workflows, tool use, structured outputs, and multi-model orchestration.</p>
     </td>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 Agentic Workflows</h4>
+      <p>Designing and deploying autonomous AI agents that plan, reason, and act across multi-step tasks — integrating tools, memory, and orchestration frameworks to solve real-world problems end-to-end.</p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
@@ -126,6 +124,10 @@ profile = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevSchroeder&theme=github-compact&bg_color=0d1117&color=8ab4f8&line=FF9900&point=ffffff&hide_border=true" width="100%" />
 </div>
 
+<div align="center">
+  <img src="https://ghchart.rshah.org/2dba4e/KevSchroeder" alt="GitHub contribution chart" width="100%" />
+</div>
+
 ---
 
 ## `// connect`
@@ -133,12 +135,6 @@ profile = {
 <div align="center">
   <a href="https://linkedin.com/in/KevSchroeder">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/KevSchroeder">
-    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:kevin@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -152,9 +148,3 @@ profile = {
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b3e,50:1a1a2e,100:0a0a0a&height=100&section=footer" width="100%" />
-
-
-<!---
-KevSchroeder/KevSchroeder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

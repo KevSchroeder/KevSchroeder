@@ -108,19 +108,14 @@ profile = {
 
 ## `// activity`
 <div align="center">
-  <img 
-    src="https://ghchart.rshah.org/00ff88/KevSchroeder" 
-    alt="KevSchroeder's Contribution Graph" 
-    width="100%"
-    style="background:transparent"
-  />
-  
-  <br/><br/>
-  
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=KevSchroeder&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FF9900&ring=FF9900&fire=8AB4F8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=8AB4F8&dates=8AB4F8)
-</div>
 
-![KevSchroeder's GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=KevSchroeder&theme=github-compact)
+[![KevSchroeder's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevSchroeder&bg_color=00000000&color=00ff88&line=00ff88&point=ffffff&area=true&area_color=00ff88&hide_border=false&border_color=ffffff&theme=github-compact)](https://github.com/KevSchroeder)
+
+<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=KevSchroeder&theme=github-dark-blue&hide_border=true&background=00000000&stroke=ffffff&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=ffffff&dates=ffffff)
+
+</div>
 ---
 
 ## `// connect`

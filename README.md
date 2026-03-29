@@ -106,19 +106,21 @@ profile = {
 
 ---
 
-## `// github stats`
-
+## `// activity`
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KevSchroeder&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8ab4f8&icon_color=FF9900&text_color=c9d1d9&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevSchroeder&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=8ab4f8&text_color=c9d1d9&langs_count=6" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KevSchroeder&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=8ab4f8&ring=FF9900&fire=FF9900&currStreakLabel=8ab4f8" />
-
+  <img 
+    src="https://ghchart.rshah.org/00ff88/KevSchroeder" 
+    alt="KevSchroeder's Contribution Graph" 
+    width="100%"
+    style="background:transparent"
+  />
+  
+  <br/><br/>
+  
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=KevSchroeder&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=FF9900&ring=FF9900&fire=8AB4F8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF9900&sideLabels=8AB4F8&dates=8AB4F8)
 </div>
 
+![KevSchroeder's GitHub Stats](https://github-readme-activity-graph.vercel.app/graph?username=KevSchroeder&theme=github-compact)
 ---
 
 ## `// connect`
